@@ -516,11 +516,5 @@ RewriteRule ^([0-9a-zA-Z-_/]+)$ index.php?page=$1 [QSA]
 -Benim için 2017 ------ nasıl geçti???? => benim-icin-2017-nasil-gecti
 ```
 
-### 15. Date&Time
-
-| Number | Subject                                |
-| ---    | ---                                    |
-
-
 ## License
 This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details
